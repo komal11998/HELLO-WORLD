@@ -2,4 +2,4 @@ HELLO WORLD
 
 
 Hi humans
-I komal, strating my new journey in github by learning step by step.
+My name is komal, starting my new journey in github by learning step by step.
